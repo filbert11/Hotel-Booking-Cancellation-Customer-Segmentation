@@ -1,0 +1,237 @@
+﻿Country Name,2-Letter (alpha 2 code),3-Letter (alpha 3 code),Continent
+Algeria,DZ,DZA,Africa
+Angola,AO,AGO,Africa
+Benin,BJ,BEN,Africa
+Botswana,BW,BWA,Africa
+Burkina Faso,BF,BFA,Africa
+Burundi,BI,BDI,Africa
+Cameroon,CM,CMR,Africa
+Cape Verde,CV,CPV,Africa
+The Central African Republic,CF,CAF,Africa
+Chad,TD,TCD,Africa
+The Comoros,KM,COM,Africa
+"Congo, Democratic Republic of",CD,COD,Africa
+Côte d'Ivoire,CI,CIV,Africa
+Djibouti,DJ,DJI,Africa
+Egypt,EG,EGY,Africa
+Equatorial Guinea,GQ,GNQ,Africa
+Eritrea,ER,ERI,Africa
+"Eswatini, formerly known as Swaziland",SZ,SWZ,Africa
+Ethiopia,ET,ETH,Africa
+Gabon,GA,GAB,Africa
+Gambia,GM,GMB,Africa
+Ghana,GH,GHA,Africa
+Guinea,GN,GIN,Africa
+Guinea-Bissau,GW,GNB,Africa
+Kenya,KE,KEN,Africa
+Lesotho,LS,LSO,Africa
+Liberia,LR,LBR,Africa
+Madagascar,MG,MDG,Africa
+Malawi,MW,MWI,Africa
+Mali,ML,MLI,Africa
+Mauritania,MR,MRT,Africa
+Mauritius,MU,MUS,Africa
+Mayotte,YT,MYT,Africa
+Morocco,MA,MAR,Africa
+Mozambique,MZ,MOZ,Africa
+Namibia,NA,NAM,Africa
+Niger,NE,NER,Africa
+Nigeria,NG,NGA,Africa
+Reunion,RE,REU,Africa
+Rwanda,RW,RWA,Africa
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa
+Sao Tome and Principe,ST,STP,Africa
+Senegal,SN,SEN,Africa
+Seychelles,SC,SYC,Africa
+Sierra Leone,SL,SLE,Africa
+Somalia,SO,SOM,Africa
+South Africa,ZA,ZAF,Africa
+South Sudan,SS,SSD,Africa
+The Sudan,SD,SDN,Africa
+Tanzania,TZ,TZA,Africa
+Togo,TG,TGO,Africa
+Tunisia,TN,TUN,Africa
+Uganda,UG,UGA,Africa
+Western Sahara,EH,ESH,Africa
+Zambia,ZM,ZMB,Africa
+Zimbabwe,ZW,ZWE,Africa
+American Samoa,AS,ASM,Australia & Oceania Country Codes
+Australia,AU,AUS,Australia & Oceania Country Codes
+Cook Islands,CK,COK,Australia & Oceania Country Codes
+Fiji,FJ,FJI,Australia & Oceania Country Codes
+French Polynesia,PF,PYF,Australia & Oceania Country Codes
+Guam,GU,GUM,Australia & Oceania Country Codes
+Kiribati,KI,KIR,Australia & Oceania Country Codes
+Marshall Islands,MH,MHL,Australia & Oceania Country Codes
+Micronesia,FM,FSM,Australia & Oceania Country Codes
+Nauru,NR,NRU,Australia & Oceania Country Codes
+New Caledonia,NC,NCL,Australia & Oceania Country Codes
+New Zealand,NZ,NZL,Australia & Oceania Country Codes
+Niue,NU,NIU,Australia & Oceania Country Codes
+Norfolk Island,NF,NFK,Australia & Oceania Country Codes
+Northern Mariana Islands,MP,MNP,Australia & Oceania Country Codes
+Palau,PW,PLW,Australia & Oceania Country Codes
+Papua New Guinea,PG,PNG,Australia & Oceania Country Codes
+Pitcairn Islands,PN,PCN,Australia & Oceania Country Codes
+Samoa,WS,WSM,Australia & Oceania Country Codes
+Solomon Islands,SB,SLB,Australia & Oceania Country Codes
+Tokelau,TK,TKL,Australia & Oceania Country Codes
+"Tonga, Kingdom of",TO,TON,Australia & Oceania Country Codes
+Tuvalu,TV,TUV,Australia & Oceania Country Codes
+United States Minor Outlying Islands,UM,UMI,Australia & Oceania Country Codes
+Vanuatu,VU,VUT,Australia & Oceania Country Codes
+Wallis and Futuna,WF,WLF,Australia & Oceania Country Codes
+Afghanistan,AF,AFG,Asia
+Azerbaijan,AZ,AZE,Asia
+Bahrain,BH,BHR,Asia
+Bangladesh,BD,BGD,Asia
+Bhutan,BT,BTN,Asia
+British Indian Ocean Territory,IO,IOT,Asia
+Brunei Darussalam,BN,BRN,Asia
+Cambodia,KH,KHM,Asia
+"China, People's Republic of",CN,CHN,Asia
+Christmas Island,CX,CXR,Asia
+Cocos (Keeling) Islands,CC,CCK,Asia
+Cyprus,CY,CYP,Asia
+Georgia,GE,GEO,Asia
+Hong Kong,HK,HKG,Asia
+India,IN,IND,Asia
+Indonesia,ID,IDN,Asia
+"Iran, Islamic Republic of",IR,IRN,Asia
+Iraq,IQ,IRQ,Asia
+Israel,IL,ISR,Asia
+Japan,JP,JPN,Asia
+Jordan,JO,JOR,Asia
+Kazakhstan,KZ,KAZ,Asia
+"Korea, Democratic People's Republic of",KP,PRK,Asia
+"Korea, Republic of",KR,KOR,Asia
+Kuwait,KW,KWT,Asia
+Kyrgyzstan,KG,KGZ,Asia
+Lao People's Democratic Republic,LA,LAO,Asia
+Lebanon,LB,LBN,Asia
+Macao,MO,MAC,Asia
+Malaysia,MY,MYS,Asia
+Maldives,MV,MDV,Asia
+Mongolia,MN,MNG,Asia
+Myanmar,MM,MMR,Asia
+Nepal,NP,NPL,Asia
+Oman,OM,OMN,Asia
+Pakistan,PK,PAK,Asia
+Palestinian Territory,PS,PSE,Asia
+Philippines,PH,PHL,Asia
+Qatar,QA,QAT,Asia
+Saudi Arabia,SA,SAU,Asia
+Singapore,SG,SGP,Asia
+Sri Lanka,LK,LKA,Asia
+Syrian Arab Republic,SY,SYR,Asia
+Taiwan,TW,TWN,Asia
+Tajikistan,TJ,TJK,Asia
+Thailand,TH,THA,Asia
+Timor-Leste,TL,TLS,Asia
+Turkey,TR,TUR,Asia
+Turkmenistan,TM,TKM,Asia
+United Arab Emirates,AE,ARE,Asia
+Uzbekistan,UZ,UZB,Asia
+Vietnam,VN,VNM,Asia
+Yemen,YE,YEM,Asia
+Aland Islands,AX,ALA,Europe
+Albania,AL,ALB,Europe
+Andorra,AD,AND,Europe
+Armenia,AM,ARM,Europe
+Austria,AT,AUT,Europe
+Belarus,BY,BLR,Europe
+Belgium,BE,BEL,Europe
+Bosnia and Herzegovina,BA,BIH,Europe
+"Bulgaria, Republic of",BG,BGR,Europe
+Croatia,HR,HRV,Europe
+Czech Republic (Czechia),CZ,CZE,Europe
+Denmark,DK,DNK,Europe
+Estonia,EE,EST,Europe
+Faroe Islands,FO,FRO,Europe
+Finland,FI,FIN,Europe
+France,FR,FRA,Europe
+Germany,DE,DEU,Europe
+Gibraltar,GI,GIB,Europe
+Greece,GR,GRC,Europe
+Guernsey,GG,GGY,Europe
+Holy See (Vatican City State),VA,VAT,Europe
+Hungary,HU,HUN,Europe
+Iceland,IS,ISL,Europe
+Ireland,IE,IRL,Europe
+Isle of Man,IM,IMN,Europe
+Italy,IT,ITA,Europe
+Jersey,JE,JEY,Europe
+Latvia,LV,LVA,Europe
+Liechtenstein,LI,LIE,Europe
+Lithuania,LT,LTU,Europe
+Luxembourg,LU,LUX,Europe
+Republic of North Macedonia,MK,MKD,Europe
+Malta,MT,MLT,Europe
+Moldova,MD,MDA,Europe
+Monaco,MC,MCO,Europe
+Montenegro,ME,MNE,Europe
+Netherlands,NL,NLD,Europe
+Norway,NO,NOR,Europe
+Poland,PL,POL,Europe
+Portugal,PT,PRT,Europe
+Romania,RO,ROU,Europe
+Russian Federation,RU,RUS,Europe
+San Marino,SM,SMR,Europe
+Serbia,RS,SRB,Europe
+Slovakia (Slovak Republic),SK,SVK,Europe
+Slovenia,SI,SVN,Europe
+Spain,ES,ESP,Europe
+Svalbard & Jan Mayen Islands,SJ,SJM,Europe
+Sweden,SE,SWE,Europe
+Switzerland,CH,CHE,Europe
+Ukraine,UA,UKR,Europe
+United Kingdom,GB,GBR,Europe
+Anguilla,AI,AIA,North American
+Aruba,AW,ABW,North American
+"Bonaire, Sint Eustatius and Saba",BQ,BES,North American
+Canada,CA,CAN,North American
+Cuba,CU,CUB,North American
+Curaçao,CW,CUW,North American
+Dominica,DM,DMA,North American
+Dominican Republic,DO,DOM,North American
+El Salvador,SV,SLV,North American
+Greenland,GL,GRL,North American
+Grenada,GD,GRD,North American
+Guadeloupe,GP,GLP,North American
+Guatemala,GT,GTM,North American
+Haiti,HT,HTI,North American
+Honduras,HN,HND,North American
+Jamaica,JM,JAM,North American
+Martinique,MQ,MTQ,North American
+Mexico,MX,MEX,North American
+Montserrat,MS,MSR,North American
+Netherlands Antilles,AN,ANT,North American
+Nicaragua,NI,NIC,North American
+Panama,PA,PAN,North American
+Puerto Rico,PR,PRI,North American
+Saint Barthelemy,BL,BLM,North American
+Saint Kitts and Nevis,KN,KNA,North American
+Saint Lucia,LC,LCA,North American
+Saint Martin,MF,MAF,North American
+Saint Pierre and Miquelon,PM,SPM,North American
+Saint Vincent and the Grenadines,VC,VCT,North American
+Sint Maarten (Netherlands),SX,SXM,North American
+Trinidad and Tobago,TT,TTO,North American
+Turks and Caicos Islands,TC,TCA,North American
+United States Minor Outlying Islands,UM,UMI,North American
+United States of America,US,USA,North American
+United States Virgin Islands,VI,VIR,North American
+Argentina,AR,ARG,South America
+Bolivia,BO,BOL,South America
+Brazil,BR,BRA,South America
+Chile,CL,CHL,South America
+Colombia,CO,COL,South America
+Ecuador,EC,ECU,South America
+Falkland Islands (Malvinas),FK,FLK,South America
+French Guiana,GF,GUF,South America
+Guyana,GY,GUY,South America
+Paraguay,PY,PRY,South America
+Peru,PE,PER,South America
+Suriname,SR,SUR,South America
+Uruguay,UY,URY,South America
+Venezuela,VE,VEN,South America
