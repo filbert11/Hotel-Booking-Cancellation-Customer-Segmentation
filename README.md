@@ -71,7 +71,7 @@ Key characteristic for cluster label 0:
 6. Have 2-4 guests
 7. Have long stays
 8. Travel during summer school holiday (majority arrive on June, July and August)
-9. Interpreted customer group name: Personal (Family)
+9. Interpreted customer group name: **Personal (Family)**
 
 Key characteristic for cluster label 1:
 1. Reserved by companies with a lot of booking changes
@@ -81,7 +81,7 @@ Key characteristic for cluster label 1:
 5. Are from European countries
 6. Orders meal
 7. Travel all year round (majority arrive on March, April, May, September, October, December)
-8. Interpreted customer group name: Group Tour
+8. Interpreted customer group name: **Group Tour**
 
 Key characteristic for cluster label 2:
 1. Have the highest relative no of booking cancellations
@@ -93,7 +93,7 @@ Key characteristic for cluster label 2:
 7. Have either 1 or more guests
 8. Have short stay (1-day to 2-day)
 9. Majority arrive on January, February and November
-10. Interpreted customer group name: Corporate (Company)
+10. Interpreted customer group name: **Corporate (Company)**
 
 ## Product Design and Recommendations
 From the data, it looks like the Corporate customers have the highest no of booking cancellations.
