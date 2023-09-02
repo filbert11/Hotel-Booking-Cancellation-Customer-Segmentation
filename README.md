@@ -43,7 +43,7 @@ The peak period for the hotel is August follows by July. This is probably due to
 ![ArrivalDateMonth](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/ArrivalDateMonth.jpeg)
 
 ## Clustering
-Majority of the features are categorical. Thus, KModes algorithm is adopted for this project. As lead time data is in numerical value, the time is categorised into 4 quartiles to make it categorical. The categorical features are transformed via get_dummies to maintain the feature name.
+Majority of the features are categorical. Thus, KModes algorithm is adopted for this project. As lead time data is in numerical value, the time is categorised into 4 quartiles to make it categorical value.
 
 To determine the optimal number of cluster, elbow methods are use to find the optimal no of clusters.
 <br> Based on the elbow method, the optimal no of cluster is 3.
