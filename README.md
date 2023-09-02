@@ -70,7 +70,7 @@ Key characteristic for cluster label 0:
 5. Make online bookings
 6. Have 2-4 guests
 7. Have long stays
-8. Travel during summer school holiday (majority arrives on June, July and August)
+8. Travel during summer school holiday (majority arrive on June, July and August)
 9. Interpreted customer group name: Personal (Family)
 
 Key characteristic for cluster label 1:
