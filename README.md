@@ -80,7 +80,7 @@ Key characteristic for cluster label 1:
 4. Are group and travel operator market segments
 5. Are from European countries
 6. Orders meal
-7. Travel all year round (majority arrives on March, April, May, September, October, December)
+7. Travel all year round (majority arrive on March, April, May, September, October, December)
 8. Interpreted customer group name: Group Tour
 
 Key characteristic for cluster label 2:
@@ -92,7 +92,7 @@ Key characteristic for cluster label 2:
 6. Are from Portugal
 7. Have either 1 or more guests
 8. Have short stay (1-day to 2-day)
-9. Majority arrives on January, February and November
+9. Majority arrive on January, February and November
 10. Interpreted customer group name: Corporate (Company)
 
 ## Product Design and Recommendations
