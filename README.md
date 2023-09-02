@@ -27,7 +27,7 @@ To simplify the different customers' nationalities, the customer nationalities a
 Majority customers are 1) European, 2) Portugal (local) and 3) Other Countries.
 ![RecodeCountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/RecodeCountryDistribution.jpeg)
 
-Most customers don't make special requests follows by 1 special request and a small proportion of customer make >2 special requests.
+Most customers don't make special requests follows by 1 special request and a small proportion of customer make >=2 special requests.
 ![SpecialRequests](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/SpecialRequests.jpeg)
 
 There are very few customers who come with a number of total guests > 5 people and most bookings have 2 total guests.
