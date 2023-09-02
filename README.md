@@ -100,10 +100,10 @@ From the data, Corporate customers have the highest no of booking cancellations.
 
 To improve the hotel revenue forecast management, we can take the following strategy for the hotel to minimize the hotel booking cancellations:
 1. Encourages the customers to make a special request like conducting special celebration, have unique feature like "Pick your guitar" and "DJ turntable" from Hard Rock Hotel Example, etc.
-2. Establishes a contract with the company
-3. Offers deal for booking with high lead time
+2. Establishes a contract with corporate customers like special deal/perks over a period of time
+3. Offers deal for booking with higher lead time (>= 2 weeks)
 
 ## Conclusion
-In conclusion, this project uses KMode clustering algorithm to segmentise the hotel booking cancellation customers into 3 segments Personal (Family), Group Tour and Corporate (Company) segments to understand the characteristics of each customer segment to minimise the hotel booking cancellations.
+In conclusion, this project used KMode clustering algorithm to segmentise the hotel booking cancellation customers into 3 segments: Personal (Family), Group Tour and Corporate (Company) segments to understand the characteristics of each customer segment to minimise the hotel booking cancellations.
 
-After studying the customer segments for each hotel, product and service could be designed to lower the cancellation rate of the hotel to improve hotel revenue forecast management.
+After studying the customer segments for each hotel, product and service can be designed to lower the cancellation rate of the hotel to improve hotel revenue forecast management.
