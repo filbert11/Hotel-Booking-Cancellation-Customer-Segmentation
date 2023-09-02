@@ -8,10 +8,10 @@ It is a Resort hotel dataset in Portugal.
 
 ## Exploratory Data Analysis (EDA)
 There are 10 category of rooms, there are too many categories. Thus, we narrow down the rooms into 3 categories: Budget, Economy and Premium.
-Room A and P are categorised as budget as the median cost is much lower.
-Room D, E, B and F are categorised together as Economy as there is big jump of price to room L.
-Room G, C and H are categorised as Premium.
-Based on the new room price category, most customers book premium rooms for the resort hotel.
+<br> Room A and P are categorised as budget as the median cost is much lower.
+<br> Room D, E, B and F are categorised together as Economy as there is big jump of price to room L.
+<br> Room G, C and H are categorised as Premium.
+<br> Based on the new room price category, most customers book premium rooms for the resort hotel.
 ![RoomPrice](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/RoomPrice.jpeg)
 
 Each booking comes with a meal option. Most customers have opted for BB (Breakfast and Bed) booking.
@@ -46,14 +46,14 @@ The peak period for the hotel is August follows by July. This is probably due to
 Majority of the features are categorical. Thus, KModes algorithm is adopted for this project.As lead time is in numerical values, the time is categorised into 4 quartiles to make it categorical. The categorical features are transformed via get_dummies to maintain the feature name.
 
 To determine the optimal number of cluster, elbow methods are use to find the optimal no of clusters.
-Based on the elbow method, the optimal no of cluster is 3.
+<br> Based on the elbow method, the optimal no of cluster is 3.
 ![ElbowMethod](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/ElbowMethod.jpeg)
 
 Visualisation of each cluster on the data space.
 ![CustomerSegmentation](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CustomerSegmentation.jpeg)
 
 To understand the characteristics of each cluster, overall data mean and standard deviation are computed. Next, each cluster label data relative mean and standard deviation to overall data are also computed to understand each cluster label unique characteristics.
-The characteristics of each cluster label is plotted as follows:
+<br> The characteristics of each cluster label is plotted as follows:
 ![CustomerSegmentationCHaracteristics1](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CustomerSegmentationCharacteristics1.jpeg)
 ![CustomerSegmentationCHaracteristics2](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CustomerSegmentationCharacteristics2.jpeg)
 ![CustomerSegmentationCHaracteristics3](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CustomerSegmentationCharacteristics3.jpeg)
