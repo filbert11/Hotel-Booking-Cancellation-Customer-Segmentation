@@ -10,9 +10,15 @@ There are 10 category of rooms, there are too many categories. Thus, we narrow d
 Room A and P are categorised as budget as the median cost is much lower.
 Room D, E, B and F are categorised together as Economy as there is big jump of price to room L.
 Room G, C and H are categorised as Premium.
-Based on the new room price category, 
+Based on the new room price category, most customers book premium rooms for the resort hotel.
 ![RoomPrice](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/RoomPrice.jpeg)
 
-Upon 
+Each booking comes with a meal option. Most customers have opted for BB (Breakfast and Bed) booking.
+![Meal](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/Meal.jpeg)
 
+Most customers stay for a short stay (<7 days). In terms of each booking stay, most customers stay for 1 day.
+![TotalStay](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/TotalStay.jpeg)
+
+There are 124 different customers' nationalities staying at this hotel with majority customers are from Portugal follows by United Kingdom, Spain, etc.
+![CountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CountryDistribution.jpeg)
 
