@@ -20,7 +20,7 @@ Each booking comes with a meal option. Most customers have opted for BB (Breakfa
 Most customers stay for a short stay (<7 days). In terms of each booking stay, most customers stay for 1 day.
 ![TotalStay](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/TotalStay.jpeg)
 
-There are 124 different customers' nationalities staying at this hotel with majority customers are from Portugal follows by United Kingdom, Spain, Ireland, France, Germany and then follows by Non-EU likes China.
+There are 124 different customers' nationalities staying at this hotel with majority customers are from Portugal follows by United Kingdom, Spain, Ireland, France, Germany and then follows by Non-EU countries like China.
 ![CountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CountryDistribution.jpeg)
 
 To simplify the different customers' nationalities, the customer nationalities are categorised into Portugal, European countries and Non-european countries.
