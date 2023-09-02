@@ -96,7 +96,7 @@ Key characteristic for cluster label 2:
 10. Interpreted customer group name: **Corporate (Company)**
 
 ## Product Design and Recommendations
-From the data, it looks like the Corporate customers have the highest no of booking cancellations.
+From the data, Corporate customers have the highest no of booking cancellations.
 
 To improve the hotel revenue forecast management, we can take the following strategy for the hotel to minimize the hotel booking cancellations:
 1. Encourages the customers to make a special request like conducting special celebration, have unique feature like "Pick your guitar" and "DJ turntable" from Hard Rock Hotel Example, etc.
