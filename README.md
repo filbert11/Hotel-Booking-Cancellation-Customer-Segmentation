@@ -24,7 +24,7 @@ There are 124 different customers' nationalities staying at this hotel with majo
 ![CountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CountryDistribution.jpeg)
 
 To simplify the different customers' nationalities, the customer nationalities are categorised into Portugal, European countries and Non-european countries.
-Majority customers are 1) European, 2) Portugal (local) and 3) 
+Majority customers are 1) European, 2) Portugal (local) and 3) Other Countries.
 ![RecodeCountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/RecodeCountryDistribution.jpeg)
 
 Most customers don't make special requests follows by 1 special request and a small proportion of customer make >2 special requests.
