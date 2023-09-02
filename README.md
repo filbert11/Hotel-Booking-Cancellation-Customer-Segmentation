@@ -10,4 +10,6 @@ There are 10 category of rooms, there are too many categories. Thus, we narrow d
 Room A and P are categorised as budget as the median cost is much lower.
 Room D, E, B and F are categorised together as Economy as there is big jump of price to room L.
 Room G, C and H are categorised as Premium.
+![ReservedRoomType](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/ReservedRoomType.jpeg)
+
 
