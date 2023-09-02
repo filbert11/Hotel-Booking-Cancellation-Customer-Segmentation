@@ -43,9 +43,10 @@ The peak period for the hotel is August follows by July. This is probably due to
 ![ArrivalDateMonth](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/ArrivalDateMonth.jpeg)
 
 ## Clustering
-Majority of the features are categorical. Thus, KModes algorithm is adopted for this project. As lead time data is in numerical value, the time is categorised into 4 quartiles to make it categorical value.
+Majority of the features are categorical values. Thus, KModes algorithm is adopted for this project. 
+<br> As lead time data is in numerical value, the time is categorised into 4 quartiles to make it categorical value.
 
-To determine the optimal number of cluster, elbow methods are use to find the optimal no of clusters.
+To determine the optimal number of cluster, elbow methods are used to find the optimal no of clusters.
 <br> Based on the elbow method, the optimal no of cluster is 3.
 ![ElbowMethod](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/ElbowMethod.jpeg)
 
@@ -59,9 +60,9 @@ To understand the characteristics of each cluster, overall data mean and standar
 ![CustomerSegmentationCHaracteristics3](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CustomerSegmentationCharacteristics3.jpeg)
 
 ## Insights and Findings
-Based on the relative characteristics of each group, these are the following key characteristic of each group and their cluster names.
+Based on the relative characteristics of each cluster, these are the following key characteristic of each cluster and its name.
 
-Key characteristic for cluster label 0 group:
+Key characteristic for cluster label 0:
 1. Have kids
 2. Have mid booking lead time between 2-week to 2-month period
 3. Make special requests
@@ -72,7 +73,7 @@ Key characteristic for cluster label 0 group:
 8. Travel during summer school holiday (majority arrives on June, July and August)
 9. Interpreted customer group name: Personal (Family)
 
-Key characteristic for cluster label 1 group:
+Key characteristic for cluster label 1:
 1. Reserved by companies with a lot of booking changes
 2. Have highest booking lead time between 6-month to 2-year period
 3. Have contract with the hotel or transient party (the booking is associated to at least other transient booking)
@@ -82,7 +83,7 @@ Key characteristic for cluster label 1 group:
 7. Travel all year round (majority arrives on March, April, May, September, October, December)
 8. Interpreted customer group name: Group Tour
 
-Key characteristic for cluster label 2 group:
+Key characteristic for cluster label 2:
 1. Have the highest relative no of booking cancellations
 2. Are repeated guests
 3. Have lowest booking lead time less than 1-week period
