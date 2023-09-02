@@ -1,6 +1,5 @@
 # Hotel Booking Cancellation Customer Segmentation
 ## Introduction
-___
 
 Booking cancellation is one of the factors affecting hotel revenue management forecast. In order to reduce hotel booking cancellations, we explore customer segmentation of our guests at resort hotel H1. This allows us to understand the customer segmentation that has the highest cancellation rate. We then can design hotel products and services to better serve our customers and to reduce hotel booking cancellation which in turn will allow us to improve our hotel revenue management forecast.
 
