@@ -34,7 +34,7 @@ There are very few customers who come with a number of total guests >=5 people a
 ![TotalGuests](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/TotalGuests.jpeg)
 
 Most bookings made are made via Online Travel Agent.
-![MarketSegments](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/MarketSegments.jpeg)
+<br> ![MarketSegments](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/MarketSegments.jpeg)
 
 The lead time distribution shows majority bookings are made 1 month before the actual stay.
 ![LeadTimeDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/LeadTimeDistributions.jpeg)
