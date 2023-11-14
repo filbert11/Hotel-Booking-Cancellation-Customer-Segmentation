@@ -15,32 +15,32 @@ There are 10 category of rooms, there are too many categories. Thus, we narrow d
 ![RoomPrice](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/RoomPrice.jpeg)
 
 Each booking comes with a meal option. Most customers have opted for BB (Breakfast and Bed).
-![Meal](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/Meal.jpeg)
+<br>![Meal](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/Meal.jpeg)
 
 Most customers stay for a short stay (<7 days). In terms of each booking stay, most customers stay for 1 day.
-![TotalStay](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/TotalStay.jpeg)
+<br> ![TotalStay](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/TotalStay.jpeg)
 
 There are 124 different customers' nationalities staying at this hotel with majority customers are from Portugal follows by United Kingdom, Spain, Ireland, France, Germany and then follows by Non-EU countries like China.
-![CountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CountryDistribution.jpeg)
+<br> ![CountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/CountryDistribution.jpeg)
 
 To simplify the different customers' nationalities, the customer nationalities are categorised into Portugal, European countries and Non-european countries.
 Majority customers are 1) European, 2) Portugal (local) and 3) Other Countries.
-![RecodeCountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/RecodeCountryDistribution.jpeg)
+<br> ![RecodeCountryDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/RecodeCountryDistribution.jpeg)
 
 Most customers don't make special requests follows by 1 special request and a small proportion of customer make >=2 special requests.
-![SpecialRequests](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/SpecialRequests.jpeg)
+<br> ![SpecialRequests](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/SpecialRequests.jpeg)
 
 There are very few customers who come with a number of total guests >=5 people and most bookings have 2 total guests.
-![TotalGuests](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/TotalGuests.jpeg)
+<br> ![TotalGuests](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/TotalGuests.jpeg)
 
 Most bookings made are made via Online Travel Agent.
 <br> ![MarketSegments](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/MarketSegments.jpeg)
 
 The lead time distribution shows majority bookings are made 1 month before the actual stay.
-![LeadTimeDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/LeadTimeDistributions.jpeg)
+<br> ![LeadTimeDistribution](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/LeadTimeDistributions.jpeg)
 
 The peak period for the hotel is August follows by July. This is probably due to Summer holiday.
-![ArrivalDateMonth](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/ArrivalDateMonth.jpeg)
+<br> ![ArrivalDateMonth](https://github.com/filbert11/Hotel-Booking-Cancellation-Customer-Segmentation/blob/main/plot/ArrivalDateMonth.jpeg)
 
 ## Clustering
 Majority of the features are categorical values. Thus, KModes algorithm is adopted for this project. 
