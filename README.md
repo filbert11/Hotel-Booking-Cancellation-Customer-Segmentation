@@ -93,7 +93,7 @@ Key characteristic for cluster label 2:
 7. Have either 1 or more guests (>=5)
 8. Have short stay (1-day to 2-day)
 9. Majority arrive on January, February and November
-10. Interpreted customer group name: **Corporate (Company) and Solo Traveler**
+10. Interpreted customer group name: **Corporate (Company)**
 
 ## Product Design and Recommendations
 From the data, Corporate customers have the highest no of booking cancellations.
