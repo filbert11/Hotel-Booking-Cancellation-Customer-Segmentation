@@ -90,10 +90,10 @@ Key characteristic for cluster label 2:
 4. Are group customers (the booking is associated to a group)
 5. Are corporate, direct and complimentary customers
 6. Are from Portugal
-7. Have either 1 or more guests
+7. Have either 1 or more guests (>=5)
 8. Have short stay (1-day to 2-day)
 9. Majority arrive on January, February and November
-10. Interpreted customer group name: **Corporate (Company)**
+10. Interpreted customer group name: **Corporate (Company) and Solo Traveler**
 
 ## Product Design and Recommendations
 From the data, Corporate customers have the highest no of booking cancellations.
@@ -102,6 +102,7 @@ To improve the hotel revenue forecast management, we can take the following stra
 1. Encourages the customers to make a special request like conducting special celebration, have unique feature like "Pick your guitar" and "DJ turntable" from Hard Rock Hotel Example, etc.
 2. Establishes a contract with corporate customers like special deal/perks over a period of time
 3. Offers deal for booking with higher lead time (>= 2 weeks)
+4. Envourages customers to bring their family/friends like bundle deals
 
 ## Conclusion
 In conclusion, this project used KMode clustering algorithm to segmentise the hotel booking cancellation customers into 3 segments: Personal (Family), Group Tour and Corporate (Company) segments to understand the characteristics of each customer segment to minimise the hotel booking cancellations.
