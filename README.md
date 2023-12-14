@@ -86,7 +86,7 @@ Key characteristic for cluster label 1:
 Key characteristic for cluster label 2:
 1. Have the highest relative no of booking cancellations
 2. Are repeated guests
-3. Have lowest booking lead time less than 1-week period
+3. Have lowest booking lead time less than 2-week period
 4. Are group customers (the booking is associated to a group)
 5. Are corporate, direct and complimentary customers
 6. Are from Portugal
