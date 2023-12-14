@@ -103,7 +103,6 @@ To improve the hotel revenue forecast management, we can take the following stra
 2. Establishes a contract with corporate customers like special deal/perks over a period of time
 3. Offers deal for booking with higher lead time (>= 2 weeks)
 4. Envourages customers to bring their family/friends like bundle deals
-5. Offers special local rate for Portugal guests
 
 ## Conclusion
 In conclusion, this project used KMode clustering algorithm to segmentise the hotel booking cancellation customers into 3 segments: Personal (Family), Group Tour and Corporate (Company) segments to understand the characteristics of each customer segment to minimise the hotel booking cancellations.
